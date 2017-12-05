@@ -1,0 +1,2 @@
+debian/bin/Eigencoind usr/bin
+src/Eigencoind usr/lib/Eigencoin
